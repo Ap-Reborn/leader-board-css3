@@ -4,7 +4,7 @@
 /* comon style */
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #9F9F9F;
+   
 }
 
 main {
@@ -131,7 +131,7 @@ hr {
 ------ media quaries---------- */
 @media only screen and (max-width:576px){
     .container{
-        width: 100%;
+        width: 80%;
        }
     .players{
         grid-template-columns: repeat(1,1fr);
